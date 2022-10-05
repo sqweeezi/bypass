@@ -1,1 +1,8 @@
+server.usc
 phonebook.usc
+proxy.server.usc
+uscapital.ru
+chat.uscapital.ru
+chat.unilinecm.ru
+cloud.uscapital.ru
+cloud.unilinecm.ru
